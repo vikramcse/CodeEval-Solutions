@@ -1,0 +1,20 @@
+1 Mark from 1952 Manchester programs The Autocode in ran written;4 3 10 11 2 6 1 9 8 5
+AIMACO Flow-Matic design in descendent only influence actual major the COBOL, were its was in since of it direct the time use at a and;18 1 8 6 17 12 5 21 4 7 10 19 15 2 20 11 9 13 16 24 25 22 23 3
+mathematical an customers that programming for her she implemented uncomfortable team with a prototype data early a English notation, Hopper were and found business wrote and in specification and processing language 1955,;11 25 7 3 27 24 19 17 30 9 20 10 22 32 5 15 31 26 12 1 8 29 2 4 21 18 14 23 13 6 28
+a it A convert the machine compiler used programming language into to code language, automatically;6 4 1 10 11 14 7 5 2 12 13 8 15 3
+time in of COBOL, it use were since in descendent the the actual and was at its only design direct influence major AIMACO Flow-Matic a;25 6 9 10 13 22 19 11 20 17 24 7 21 14 2 23 15 12 8 16 5 4 18 1
+Cambridge 2 University for The EDSAC of devised Hartley Laboratory the was 1961 version in Mathematical by of;14 6 12 3 1 5 13 8 10 16 4 7 18 2 17 15 9
+first The to programming in 1950s computer were the languages instructions a to communicate written designed;2 1 6 3 14 16 11 12 15 4 8 10 9 7 13
+from 1955 was at the Remington Rand It until I period developed for during the UNIVAC 1959;14 15 2 8 5 9 10 1 16 7 13 3 4 11 12 6
+Alick developed the Autocode University Manchester, of Glennie At in early the 1950s;6 8 11 9 3 5 4 7 1 10 12 2
+Mauchly's proposed was languages for ever electronic of developed one an high-level the first 1949, computer John in Short Code,;2 5 8 14 17 15 19 10 16 9 18 13 11 12 7 20 1 6 3
+for The by 1961 Hartley University of the version was Mathematical of devised 2 Laboratory Cambridge EDSAC in;3 1 9 18 10 12 13 4 2 7 15 11 8 6 16 14 5
+called "Mark for The the 1 Autocode" 1954 autocode was Mark the in and developed 1 was second by Brooker;16 18 6 1 7 19 20 13 3 4 8 17 12 14 5 9 15 2 10
+a since actual only direct were was AIMACO and its the Flow-Matic influence in time the descendent it use at major COBOL, of design in;3 11 21 12 16 19 2 18 14 15 24 1 5 20 25 7 17 13 22 23 4 10 9 8
+major Flow-Matic use the direct since AIMACO time in descendent only influence its was a the it of were actual COBOL, and design in at;4 1 22 24 16 11 18 25 20 17 12 5 15 2 3 7 13 9 19 21 10 14 8 6
+in only the time since a AIMACO and of it in COBOL, actual Flow-Matic influence at design major its was descendent direct the use were;6 12 24 25 11 3 18 14 9 13 20 10 21 1 5 23 8 4 15 2 17 16 7 22
+program However, it code be the into than every ran, slower much running translated to machine machine had process the code making the time equivalent;3 1 13 25 6 16 8 20 11 14 19 18 21 7 5 24 9 4 17 22 10 15 2 12
+early programming Grace by Another Hopper FLOW-MATIC in was US, the called devised language;2 3 8 7 1 9 14 10 5 12 11 13 6
+by early the language called FLOW-MATIC devised US, programming Another Grace in Hopper was;7 2 11 4 13 14 6 12 3 1 8 10 9
+in Glennie the developed early Alick of Manchester, the University Autocode 1950s At;10 7 11 8 12 6 4 5 2 3 9 13
+for circumstances, advanced which EDSAC object its local for for adapted Known Autocode source-language and a code diagnostics and the 2 optimisation were straight from as noted was time was Mercury development Autocode, it;21 17 31 29 3 23 22 16 15 32 14 1 13 27 26 8 24 28 18 33 4 25 30 9 11 2 20 19 34 7 12 10 5
